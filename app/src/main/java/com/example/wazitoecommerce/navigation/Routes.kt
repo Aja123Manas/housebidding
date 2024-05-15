@@ -1,0 +1,16 @@
+package com.example.wazitoecommerce.navigation
+
+const val HOME_URL = "home"
+const val SIGNUP_URL = "signup"
+const val LOGIN_URL = "login"
+const val ADD_HOUSES_URL = "add_products"
+const val VIEW_HOUSES_URL = "view_products"
+const val PRICE_URL = "price"
+const val SPLASH_URL = "splash"
+const val LAZYCOLUMN1_URL = "lazycolumn1"
+const val LAZYCOLUMN2_URL = "lazycolumn2"
+const val MESSAGE_URL = "message"
+const val PAY_URL = "pay"
+const val LAZYCOLUMN_URL = "lazycolumn"
+const val SUCCESS_URL = "success"
+const val USER_URL = "user"
